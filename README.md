@@ -22,6 +22,6 @@ The **FITS_DB** database serves as the backbone of the application by:
 ✔️ **Scalability:** Easily accommodates future expansions and new features as the business grows.  
 
 ---
-📌 **FITS_DB** is designed to empower businesses with effective inventory and financial tracking, ensuring smooth and efficient operations. 🔥
+📌 ** " Inventory and Finance Tracking System " ** is designed to empower businesses with effective inventory and financial tracking, ensuring smooth and efficient operations. 🔥
 
 
